@@ -5,4 +5,8 @@ console.log('hoai')
 
 console.log('test')
 
+<<<<<<< HEAD
 console.log('master create conflic')
+=======
+console.log('develope create conflic')
+>>>>>>> development
