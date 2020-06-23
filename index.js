@@ -4,3 +4,5 @@ console.log('hoai branch')
 console.log('hoai')
 
 console.log('test')
+
+console.log('master create conflic')
